@@ -12,5 +12,8 @@ int main(void){
         if(i % 3 == 0){
             printf("Fizz\n");
         }
+        elss if(i % 5 == 0){
+            pritntf("Buzz\n");
+        }
     }
 }
