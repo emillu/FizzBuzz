@@ -4,7 +4,7 @@
 //
 //  Created by 山本達也 on 2018/11/29.
 //
-
+//issueのテスト
 #include "fizzBuzz.h"
 
 int main(void){
